@@ -5,10 +5,10 @@
     
     <entry>
       <title>网站更新</title>
-      <link href="/2023/01/16/2/"/>
-      <url>/2023/01/16/2/</url>
+      <link href="/posts/9b40dd1d.html"/>
+      <url>/posts/9b40dd1d.html</url>
       
-        <content type="html"><![CDATA[<h1 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h1><p>本次网站更新内容：</p><ol><li>新增了一些新功能</li><li>美化了一下网站</li><li>这几天网站更新会很频繁(毕竟是刚建的)</li><li>网站现在看起来可能会不太协调，我后面会改的</li><li>后面还会加亿些图片，可能会在跟这教程的情况下魔改博客</li></ol><p>非常感谢<a href="https://www.fomal.cc/">Fomalhaut🥝</a>的教程！！！</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h1><p>本次网站更新内容：</p><ol><li>新增了一些新功能</li><li>美化了一下网站</li><li>这几天网站更新会很频繁(毕竟是刚建的)</li><li>网站现在看起来可能会不太协调，我后面会改的</li><li>后面还会加亿些图片，可能会在跟着教程的情况下魔改博客</li></ol><p>非常感谢<a href="https://www.fomal.cc/">Fomalhaut🥝</a>的教程！！！</p>]]></content>
       
       
       
@@ -18,8 +18,8 @@
     
     <entry>
       <title>第一篇文章</title>
-      <link href="/2023/01/14/firstpost/"/>
-      <url>/2023/01/14/firstpost/</url>
+      <link href="/posts/5c2fafc7.html"/>
+      <url>/posts/5c2fafc7.html</url>
       
         <content type="html"><![CDATA[<h1 id="第一篇文章！"><a href="#第一篇文章！" class="headerlink" title="第一篇文章！"></a>第一篇文章！</h1><p>没错！<br>从今天开始，我也要开始玩博客了。<br>我写一个我唯一会的Java代码——HelloWorld罢（悲</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">HelloWorld</span>&#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[] args)</span>&#123;</span><br><span class="line">        System.out.println(<span class="string">&quot;Hello World!&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
       
